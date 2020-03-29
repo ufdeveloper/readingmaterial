@@ -1,0 +1,9 @@
+http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
+
+This is a nice walkthrogh of how a team started with MongoDB and later realized a relational DB is better suited for their use case.
+
+Some important notes from the article,
+
+- Whether you’re duplicating critical data (ugh), or using references and doing joins in your application code (double ugh), when you have links between documents, you’ve outgrown MongoDB.
+
+
