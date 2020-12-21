@@ -1,0 +1,2 @@
+Spring Security Oauth - https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2
+This is an awesome resource explaining configuring your web application to use Spring Security Oauth2.
